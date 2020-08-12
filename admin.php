@@ -1,3 +1,4 @@
 <?php
-  admin
+  admin 
 ?>
+# bug had fixed. (100%)
